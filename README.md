@@ -2,7 +2,9 @@
 
 # JAVA FULL STACK DEVELOPER
 
-# **MY SKILLS in Programming Languages:**
+# **MY SKILLS in **
+
+**Programming Languages:**
 Proficient in Java and JavaScript, with a strong foundation in object-oriented programming and scripting.
 
 **Libraries:**
